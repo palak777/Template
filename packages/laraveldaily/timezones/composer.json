@@ -1,0 +1,6 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "This is a demo package",
+    "minimum-stability": "dev",
+    "require": {}
+}
