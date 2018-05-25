@@ -146,7 +146,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
-        Laraveldaily\Timezones\TimezonesServiceProvider::class,
+        Laraveldaily1\Timezones1\TimezonesServiceProvider::class,
         /*
          * Package Service Providers...
          */
